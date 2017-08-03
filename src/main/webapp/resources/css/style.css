@@ -1,0 +1,11 @@
+.show-more {
+    width: 100%;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 10pt;
+    height: 30px;
+}
+.btn-panel {
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
